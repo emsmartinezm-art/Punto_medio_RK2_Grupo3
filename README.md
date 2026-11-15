@@ -8,6 +8,6 @@
 ## Descripción del Proyecto
 Herramienta web interactiva diseñada para resolver ecuaciones diferenciales de primer orden utilizando el método numérico de Runge-Kutta (RK2). Incluye un selector interactivo para calcular soluciones aproximadas mediante los métodos de Heun, Ralston o punto medio.
 ## Objetivo
-Resolver ecuaciones diferenciales de primer orden $\(y'=f(x,y)) con condiciones iniciales, eligiendo entre los métodos numéricos de Heun, Ralston o punto medio.
+Resolver ecuaciones diferenciales de primer orden $y' = f(x,y)$ con condiciones iniciales, eligiendo entre los métodos numéricos de Heun, Ralston o punto medio.
 # MÉTODO RUNGE-KUTTA DE SEGUNDO ORDEN
 - (y_{i+1})= 
