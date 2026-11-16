@@ -50,4 +50,17 @@ Para cada variación se utilizan los siguientes parametros:
 - $`a_2=1`$  Método del Punto Medio
 ## Uso
 1. Abrir el enlace de GitHub Pages.
-2. 
+2. Ingresar los valores de $`f'(x,y)`$, $`x_0`$, $`y_0`$, $`x_f`$ y N.
+3. Escoger la variante del metodo de preferencia.
+4. Pulsar "Ejecutar Integración RK2".
+# Prueba de referencia
+```math
+f(x,y)= x+y;\qquad x_0=0;\qquad y_0=10;\qquad x_f=1;\qquad h=10
+```
+# Enlace público
+
+# Bibliografía
+[1] M. Ayala, "65. Método de Punto Medio (Método particular de Runge Kutta de 2do orden) parte 1," YouTube, 17 de diciembre de 2020. [Archivo de video]. Disponible: https://www.youtube.com/watch?v=VQlkzYMSHzo. [Accedido: Nov. 15, 2026].
+
+[2] M. Ayala, "66. Método de punto medio (Método particular de Runge Kutta de 2do orden en excel) parte 2," YouTube, 17 de diciembre de 2020. [Archivo de video]. Disponible: https://www.youtube.com/watch?v=GNuPjChilJQ. [Accedido: Nov. 15, 2026].
+
